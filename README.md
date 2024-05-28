@@ -2,6 +2,7 @@
 
 🌟 Enthusiastic code reviewer with an insatiable thirst for knowledge and innovation.
 💼 Currently engrossed in projects, leveraging state-of-the-art technologies to solve complex problems.
+
 📚 Proficiencies:
 🖥️ Languages: Python 🐍, 
 🛠️ Tools: Git 🔀, Docker 🐳, 
